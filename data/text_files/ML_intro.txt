@@ -1,0 +1,17 @@
+Machine learning (ML) is a subset of artificial intelligence (AI) that enables systems to learn from data, identify patterns, and make decisions or predictions without being explicitly programmed for every specific task. It focuses on developing algorithms that allow computers to improve their performance autonomously as they are exposed to more data. [1, 2, 3, 4]  
+This video explains the core concepts of machine learning in 100 seconds: 
+Key aspects of machine learning include: 
+
+• How it Works: Instead of hard-coded rules, ML models are trained using large datasets to recognize patterns and make, or aid in, decisions. 
+• Types of Learning: 
+
+	• Supervised Learning: Algorithms learn from labeled data to predict outcomes (e.g., spam detection). 
+	• Unsupervised Learning: Algorithms find hidden patterns or structures in unlabeled data (e.g., customer segmentation). 
+	• Reinforcement Learning: Systems learn by trial and error to achieve a goal, receiving rewards for correct actions (e.g., autonomous driving). 
+	• Generative AI: Models create new content (text, images) based on learned patterns. 
+
+• Common Applications: Fraud detection, recommendation engines (like Netflix), image recognition, natural language processing, and predictive maintenance. 
+• Key Techniques: Neural networks and deep learning are frequently used to handle complex tasks. [3, 5, 6, 7, 8, 9]  
+
+This video provides an overview of the main types of machine learning: 
+Machine learning is fundamental in shifting from rules-based programming to data-driven decision-making, allowing systems to enhance their accuracy over time. [4, 10]  
